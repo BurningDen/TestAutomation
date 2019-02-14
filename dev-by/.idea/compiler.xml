@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dev-by" target="1.7" />
+      <module name="dev-by" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
